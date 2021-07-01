@@ -1,3 +1,12 @@
+<p>Email: modos.m98@gmail.com</p>
+<p>Telegram: @modos.m98</p>
+
+<hr>
+<p>Medium:</p><a href="https://modos-coding.medium.com/">modos-coding.medium.com</a></p>
+<p>Virgool:</p><a href="https://virgool.io/@modos-coding">virgool.io/@modos-coding</a></p>
+<p>Youtube:</p><a href="https://www.youtube.com/channel/UC_FNvEg2hnl0kiceK3SaUYA">Modos Coding</a></p>
+<hr>
+
 ### Front-End
 <div float="right">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
