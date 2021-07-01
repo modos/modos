@@ -1,4 +1,4 @@
-### Contacts
+### Contact
 
 <p>Email: modos.m98@gmail.com</p>
 <p>Telegram: @modos.m98</p>
