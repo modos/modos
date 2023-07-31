@@ -7,15 +7,19 @@
 
 ### Profiles
 <a href="https://stackoverflow.com/users/5651339/modos">Stackoverflow</a><br>
+<a href="https://quera.ir/profile/449ybr">Quera</a>
+
+### Blogs
+
 <a href="https://virgool.io/@modos-coding">Virgool</a><br>
-<a href="https://sokanacademy.com/profile/modos.m98">Sokan Academy</a>
-<p>Youtube:</p>
+<a href="https://sokanacademy.com/profile/modos.m98">Sokan Academy</a><br>
+<a href="https://modos-coding.medium.com/">Medium</a><br>
+<a href="https://dev.to/modos">dev.to</a>
+
+### Youtube
+
 <a href="https://www.youtube.com/channel/UC_FNvEg2hnl0kiceK3SaUYA">Modos Coding</a><br>
 <a href="https://www.youtube.com/@vuefarsi">Vue Farsi</a>
-</p>
-<p>Quera:</p><a href="https://quera.ir/profile/449ybr">modos</a></p>
-<p>Medium:</p><a href="https://modos-coding.medium.com/">modos-coding.medium.com</a></p>
-<p>Dev Community:</p><a href="https://dev.to/modos">dev.to/modos</a></p>
 
 <hr>
 
