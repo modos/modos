@@ -29,7 +29,9 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
+<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-grey?style=for-the-badge&logo=nuxt"/>
 <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+ <img alt="Next.js" src="https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=nextdotjs"/>
 </div>
 
 ### Back-End
